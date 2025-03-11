@@ -1,0 +1,46 @@
+EMERGING MARKETS ANALYSIS REPORT
+==============================
+
+1. EMERGING MARKETS PERFORMANCE
+------------------------------
+
+BRICS Analysis:
+---------------
+Trade Strength: 3015865.72
+Network Connectivity: 0.99
+Network Centrality: 0.99
+
+
+Next-11 Analysis:
+-----------------
+Trade Strength: 773066.92
+Network Connectivity: 0.90
+Network Centrality: 0.92
+
+
+MINT Analysis:
+--------------
+Trade Strength: 965815.03
+Network Connectivity: 0.94
+Network Centrality: 0.95
+
+
+2. STATISTICAL ANALYSIS
+----------------------
+
+BRICS:
+Crisis Impact: -2.7%
+Recovery: 29.4%
+Statistical Significance: p=0.974
+
+
+Next-11:
+Crisis Impact: -6.8%
+Recovery: 32.7%
+Statistical Significance: p=0.876
+
+
+Advanced:
+Crisis Impact: -15.9%
+Recovery: 17.3%
+Statistical Significance: p=0.528

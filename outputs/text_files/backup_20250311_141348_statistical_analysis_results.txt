@@ -1,0 +1,17 @@
+Statistical Analysis Results
+==========================
+
+ANOVA Results:
+F-statistic: 0.2828
+p-value: 0.7538
+
+Sector Rankings:
+                decline  recovery  resilience  network_density  centrality  crisis_volatility  num_countries
+East Asia           5.0       7.0         4.0              3.0         3.0                7.0            4.0
+Southeast Asia      7.0       4.0         6.0              5.0         5.0                1.0            3.0
+North America       1.0       2.0         2.0              7.0         7.0                4.0            1.0
+Western Europe      2.0       1.0         1.0              8.0         8.0                3.0            5.0
+Eastern Europe      4.0       3.0         3.0              6.0         6.0                2.0            2.0
+Latin America       6.0       6.0         5.0              4.0         4.0                5.0            3.0
+Middle East         3.0       8.0         7.0              1.0         1.0                6.0            3.0
+South Asia          8.0       5.0         8.0              2.0         2.0                8.0            2.0

@@ -1,0 +1,36 @@
+Statistical Analysis Results
+===========================
+
+
+BRICS Analysis:
+---------------
+group: BRICS
+mean_pre: 2394956.4400
+mean_during: 2330161.6400
+mean_post: 3015865.7200
+decline_t_stat: 0.0336
+decline_p_val: 0.9740
+recovery_t_stat: -0.3074
+recovery_p_val: 0.7664
+
+Next-11 Analysis:
+-----------------
+group: Next-11
+mean_pre: 625231.0027
+mean_during: 582572.9909
+mean_post: 773066.9182
+decline_t_stat: 0.1578
+decline_p_val: 0.8762
+recovery_t_stat: -0.6367
+recovery_p_val: 0.5315
+
+Advanced Analysis:
+------------------
+group: Advanced
+mean_pre: 3963477.7143
+mean_during: 3331546.7143
+mean_post: 3909380.0000
+decline_t_stat: 0.6499
+decline_p_val: 0.5280
+recovery_t_stat: -0.5756
+recovery_p_val: 0.5755

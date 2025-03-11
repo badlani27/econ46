@@ -1,0 +1,148 @@
+DETAILED NETWORK ANALYSIS RESULTS
+================================
+
+1. Top Economic Powers 2010:
+                 country  Out-strength  Out-degree  Out-eigenvector
+512                China     9996222.0    1.000000         0.096060
+672              Germany     6705292.0    1.000000         0.096060
+2624       United States     6610431.0    1.000000         0.096060
+1312               Japan     4415181.0    0.994350         0.095577
+864               France     2880275.0    1.000000         0.096060
+1408         South Korea     2679725.0    0.994350         0.095577
+1264               Italy     2424068.0    1.000000         0.096060
+1904         Netherlands     2356322.0    1.000000         0.096060
+912       United kingdom     2187866.0    1.000000         0.096060
+464               Canada     2142547.0    0.988701         0.095670
+2160  Russian federation     2077336.0    0.943503         0.093402
+2192        Saudi arabia     2006146.0    0.689265         0.075346
+320   Belgium-Luxembourg     1863280.0    0.994350         0.095910
+2544              Taiwan     1816001.0    0.711864         0.076757
+1648              Mexico     1698595.0    0.960452         0.093977
+2240           Singapore     1391637.0    0.887006         0.089681
+784                Spain     1334113.0    1.000000         0.096060
+1168               India     1324615.0    1.000000         0.096060
+1824            Malaysia     1304759.0    1.000000         0.096060
+480          Switzerland     1260915.0    1.000000         0.096060
+
+2. Network Evolution:
+       t  Out-degree  In-degree   Out-strength    In-strength  Out-eigenvector  In-eigenvector
+0   1995    0.531962   0.531962  156493.858086  156493.855070         0.069638        0.070805
+1   1996    0.566940   0.566940  165447.336456  165447.335299         0.070211        0.071264
+2   1997    0.593919   0.593919  171720.806099  171720.813722         0.070707        0.071568
+3   1998    0.607154   0.607154  170283.237271  170283.238272         0.070818        0.071697
+4   1999    0.617121   0.617121  176566.496129  176566.490805         0.070946        0.071881
+5   2000    0.640418   0.640418  198964.747466  198964.755210         0.071327        0.072176
+6   2001    0.652796   0.652796  192872.441794  192872.452980         0.071441        0.072392
+7   2002    0.661112   0.661112  200337.773160  200337.764589         0.071600        0.072431
+8   2003    0.671047   0.671047  233222.389867  233222.388518         0.071672        0.072627
+9   2004    0.673491   0.673491  285719.896186  285719.890854         0.071721        0.072568
+10  2005    0.689519   0.689519  322468.206751  322468.216518         0.071869        0.072779
+11  2006    0.688599   0.688599  370728.324761  370939.217199         0.071897        0.072759
+12  2007    0.698343   0.698343  426210.599552  426021.382021         0.072057        0.072796
+13  2008    0.702057   0.702057  498133.527847  497927.345265         0.072178        0.072718
+14  2009    0.676760   0.676760  379446.382260  379446.386411         0.071847        0.072446
+15  2010    0.690853   0.690853  465020.095138  464948.289474         0.071916        0.072669
+
+3. Crisis Impact:
+{'pre_crisis': 398469.4621564607, 'during_crisis': 438789.9550533708, 'post_crisis': 465020.0951376405, 'crisis_impact': 10.118841398460319, 'recovery': 5.977835130952182}
+
+4. Regional Patterns:
+{'EU': 3140014.0, 'Asia_Pacific': 3929233.8, 'North_America': 3483857.6666666665}
+5. Network Structure Changes:
+----------------------------
+
+Year 2007:
+Average trade strength: 426210.60
+Median trade strength: 35962.85
+Total trade volume: 75865486.72
+
+Top 20 Trading Nations:
+                 country  Out-strength
+515                China     7772189.0
+675              Germany     6939520.0
+2627       United States     6293300.0
+1315               Japan     4127597.0
+867               France     3008524.0
+1267               Italy     2688143.0
+915       United kingdom     2399667.0
+1907         Netherlands     2323860.0
+467               Canada     2287593.0
+1411         South Korea     2145074.0
+323   Belgium-Luxembourg     1970751.0
+2163  Russian federation     1827045.0
+2547              Taiwan     1708713.0
+1651              Mexico     1541445.0
+2195        Saudi arabia     1493640.0
+787                Spain     1365907.0
+1827            Malaysia     1142533.0
+2243           Singapore     1142092.0
+483          Switzerland     1081148.0
+1171               India      938916.2
+
+Year 2009:
+Average trade strength: 379446.38
+Median trade strength: 32812.24
+Total trade volume: 67541456.04
+
+Top 20 Trading Nations:
+                 country  Out-strength
+513                China     7747215.0
+673              Germany     5844719.0
+2625       United States     5569598.0
+1313               Japan     3403657.0
+865               France     2636024.0
+1265               Italy     2213843.0
+1409         South Korea     2092615.0
+1905         Netherlands     2004727.0
+913       United kingdom     1919952.0
+465               Canada     1733034.0
+321   Belgium-Luxembourg     1657919.0
+2161  Russian federation     1568275.0
+2193        Saudi arabia     1494089.0
+2545              Taiwan     1411293.0
+1649              Mexico     1297595.0
+785                Spain     1182991.0
+481          Switzerland     1061980.0
+2241           Singapore     1050356.0
+1825            Malaysia     1045662.0
+1169               India     1034708.0
+
+Year 2010:
+Average trade strength: 465020.10
+Median trade strength: 43431.10
+Total trade volume: 82773576.93
+
+Top 20 Trading Nations:
+                 country  Out-strength
+512                China     9996222.0
+672              Germany     6705292.0
+2624       United States     6610431.0
+1312               Japan     4415181.0
+864               France     2880275.0
+1408         South Korea     2679725.0
+1264               Italy     2424068.0
+1904         Netherlands     2356322.0
+912       United kingdom     2187866.0
+464               Canada     2142547.0
+2160  Russian federation     2077336.0
+2192        Saudi arabia     2006146.0
+320   Belgium-Luxembourg     1863280.0
+2544              Taiwan     1816001.0
+1648              Mexico     1698595.0
+2240           Singapore     1391637.0
+784                Spain     1334113.0
+1168               India     1324615.0
+1824            Malaysia     1304759.0
+480          Switzerland     1260915.0
+
+6. Key Trends and Observations:
+-----------------------------
+
+Trade Volume Changes:
+- Crisis Impact: -11.0% change in total trade
+- Recovery: 22.6% change in total trade
+
+Network Composition Changes:
+- Countries dropping from top 20 during crisis: set()
+- New entries in top 20 post-crisis: set()
+- Consistently top 20 throughout: {'Saudi arabia', 'Italy', 'France', 'Switzerland', 'Germany', 'Canada', 'Japan', 'South Korea', 'Malaysia', 'United kingdom', 'United States', 'Taiwan', 'Spain', 'Netherlands', 'Singapore', 'China', 'Belgium-Luxembourg', 'Russian federation', 'India', 'Mexico'}

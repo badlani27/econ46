@@ -1,0 +1,109 @@
+TRADE NETWORK ANALYSIS
+=====================
+
+1. Network Evolution
+-----------------
+       t  Out-degree  In-degree   Out-strength    In-strength  Out-eigenvector  In-eigenvector
+0   1995    0.531962   0.531962  156493.858086  156493.855070         0.069638        0.070805
+1   1996    0.566940   0.566940  165447.336456  165447.335299         0.070211        0.071264
+2   1997    0.593919   0.593919  171720.806099  171720.813722         0.070707        0.071568
+3   1998    0.607154   0.607154  170283.237271  170283.238272         0.070818        0.071697
+4   1999    0.617121   0.617121  176566.496129  176566.490805         0.070946        0.071881
+5   2000    0.640418   0.640418  198964.747466  198964.755210         0.071327        0.072176
+6   2001    0.652796   0.652796  192872.441794  192872.452980         0.071441        0.072392
+7   2002    0.661112   0.661112  200337.773160  200337.764589         0.071600        0.072431
+8   2003    0.671047   0.671047  233222.389867  233222.388518         0.071672        0.072627
+9   2004    0.673491   0.673491  285719.896186  285719.890854         0.071721        0.072568
+10  2005    0.689519   0.689519  322468.206751  322468.216518         0.071869        0.072779
+11  2006    0.688599   0.688599  370728.324761  370939.217199         0.071897        0.072759
+12  2007    0.698343   0.698343  426210.599552  426021.382021         0.072057        0.072796
+13  2008    0.702057   0.702057  498133.527847  497927.345265         0.072178        0.072718
+14  2009    0.676760   0.676760  379446.382260  379446.386411         0.071847        0.072446
+15  2010    0.690853   0.690853  465020.095138  464948.289474         0.071916        0.072669
+
+2. Crisis Impact
+--------------
+pre_crisis: 398469.46
+during_crisis: 438789.96
+post_crisis: 465020.10
+crisis_impact: 10.12
+recovery: 5.98
+
+3. Regional Analysis
+------------------
+EU: 3140014.00
+Asia_Pacific: 3929233.80
+North_America: 3483857.67
+
+4. Regional Impact Over Time
+-------------------------
+
+North America:
+  Year 2007:
+    Average Strength: 3374112.67
+    Total Strength: 10122338.00
+    Internal Trade: 13.34%
+  Year 2009:
+    Average Strength: 2866742.33
+    Total Strength: 8600227.00
+    Internal Trade: 12.73%
+  Year 2010:
+    Average Strength: 3483857.67
+    Total Strength: 10451573.00
+    Internal Trade: 12.63%
+
+Western Europe:
+  Year 2007:
+    Average Strength: 2592913.51
+    Total Strength: 20743308.10
+    Internal Trade: 27.34%
+  Year 2009:
+    Average Strength: 2198269.30
+    Total Strength: 17586154.40
+    Internal Trade: 26.04%
+  Year 2010:
+    Average Strength: 2499816.71
+    Total Strength: 19998533.70
+    Internal Trade: 24.16%
+
+East Asia:
+  Year 2007:
+    Average Strength: 2902899.70
+    Total Strength: 17417398.20
+    Internal Trade: 22.96%
+  Year 2009:
+    Average Strength: 2699938.80
+    Total Strength: 16199632.80
+    Internal Trade: 23.98%
+  Year 2010:
+    Average Strength: 3478630.45
+    Total Strength: 20871782.70
+    Internal Trade: 25.22%
+
+Emerging Markets:
+  Year 2007:
+    Average Strength: 964060.16
+    Total Strength: 7712481.30
+    Internal Trade: 10.17%
+  Year 2009:
+    Average Strength: 907500.07
+    Total Strength: 7260000.60
+    Internal Trade: 10.75%
+  Year 2010:
+    Average Strength: 1154407.90
+    Total Strength: 9235263.20
+    Internal Trade: 11.16%
+
+Oil Exporters:
+  Year 2007:
+    Average Strength: 551579.89
+    Total Strength: 3861059.20
+    Internal Trade: 5.09%
+  Year 2009:
+    Average Strength: 477305.36
+    Total Strength: 3341137.50
+    Internal Trade: 4.95%
+  Year 2010:
+    Average Strength: 699391.84
+    Total Strength: 4895742.90
+    Internal Trade: 5.91%
