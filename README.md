@@ -1,4 +1,4 @@
-# Trade Network Analysis Project
+# ECON 46 Final Project
 
 This project analyzes international trade networks using CEPII data, focusing on the impact of the 2008 financial crisis.
 
