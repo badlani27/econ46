@@ -95,7 +95,8 @@ def main():
     analysis_scripts = [
         'analyze_trade_network.py',
         'analyze_emerging_markets.py',
-        'analyze_policy_impacts.py'
+        'analyze_policy_impacts.py',
+        'analyze_centrality_contagion.py'
     ]
     
     # Run each analysis script

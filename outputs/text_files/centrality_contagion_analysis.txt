@@ -1,0 +1,175 @@
+CENTRALITY-BASED CONTAGION ANALYSIS
+=================================
+
+1. Top Central Countries (2007)
+--------------------------
+     iso3         country  Out-eigenvector
+163   AUT         Austria         0.095782
+515   CHN           China         0.095782
+675   DEU         Germany         0.095782
+867   FRA          France         0.095782
+915   GBR  United kingdom         0.095782
+1155  IDN       Indonesia         0.095782
+1171  IND           India         0.095782
+1267  ITA           Italy         0.095782
+1827  MYS        Malaysia         0.095782
+1907  NLD     Netherlands         0.095782
+
+2. Trade Impact Analysis
+----------------------
+
+AUT:
+  Crisis Impact (2007-2008):
+    - Average trade volume change: 26.99%
+    - Affected trading partners: 24
+  Post-Crisis Recovery (2008-2009):
+    - Average trade volume change: -41.62%
+    - Affected trading partners: 166
+  Trade Dependency Statistics:
+                trade_dependence                               bilateral_trade               target_total_trade
+                        mean            std            max             sum          mean               mean
+period                                                                                                     
+crisis_peak    521611.345941  158894.745911  869196.664889    7.926632e+13  4.478323e+11      991161.380869
+post_crisis    407011.521067  110793.769116  655927.946821    4.627780e+13  2.614565e+11      755001.339681
+pre_crisis     475654.724897  137748.385530  788146.755516    6.241753e+13  3.526414e+11      847476.958871
+
+CHN:
+  Crisis Impact (2007-2008):
+    - Average trade volume change: 37.91%
+    - Affected trading partners: 9
+  Post-Crisis Recovery (2008-2009):
+    - Average trade volume change: -36.44%
+    - Affected trading partners: 152
+  Trade Dependency Statistics:
+                trade_dependence                             bilateral_trade               target_total_trade
+                        mean           std           max             sum          mean               mean
+period                                                                                                   
+crisis_peak     5.305283e+06  1.606638e+06  8.826561e+06    7.677797e+14  4.337738e+12      921532.742451
+post_crisis     4.557238e+06  1.232793e+06  7.333630e+06    4.880214e+14  2.757183e+12      693713.999003
+pre_crisis      4.447292e+06  1.279924e+06  7.357567e+06    5.567366e+14  3.145404e+12      789407.817628
+
+DEU:
+  Crisis Impact (2007-2008):
+    - Average trade volume change: 29.45%
+    - Affected trading partners: 21
+  Post-Crisis Recovery (2008-2009):
+    - Average trade volume change: -42.01%
+    - Affected trading partners: 166
+  Trade Dependency Statistics:
+                trade_dependence                             bilateral_trade               target_total_trade
+                        mean           std           max             sum          mean               mean
+period                                                                                                   
+crisis_peak     4.427385e+06  1.345611e+06  7.371903e+06    6.343460e+14  3.583876e+12      924997.612507
+post_crisis     3.435776e+06  9.327465e+05  5.532699e+06    3.678536e+14  2.078269e+12      704149.784314
+pre_crisis      3.967763e+06  1.146209e+06  6.569318e+06    4.900354e+14  2.768561e+12      788367.992769
+
+FRA:
+  Crisis Impact (2007-2008):
+    - Average trade volume change: 30.99%
+    - Affected trading partners: 18
+  Post-Crisis Recovery (2008-2009):
+    - Average trade volume change: -40.41%
+    - Affected trading partners: 163
+  Trade Dependency Statistics:
+                trade_dependence                              bilateral_trade               target_total_trade
+                        mean            std           max             sum          mean               mean
+period                                                                                                    
+crisis_peak     1.942536e+06  591982.110770  3.237651e+06    2.853910e+14  1.612379e+12      960690.821547
+post_crisis     1.548164e+06  421559.611133  2.495300e+06    1.700518e+14  9.607448e+11      731164.761715
+pre_crisis      1.718424e+06  497886.020061  2.848029e+06    2.178752e+14  1.230934e+12      820769.924972
+
+GBR:
+  Crisis Impact (2007-2008):
+    - Average trade volume change: 25.88%
+    - Affected trading partners: 27
+  Post-Crisis Recovery (2008-2009):
+    - Average trade volume change: -43.12%
+    - Affected trading partners: 166
+  Trade Dependency Statistics:
+                trade_dependence                              bilateral_trade               target_total_trade
+                        mean            std           max             sum          mean               mean
+period                                                                                                    
+crisis_peak     1.482121e+06  451953.377982  2.471447e+06    2.185536e+14  1.234766e+12      966735.702903
+post_crisis     1.126979e+06  307135.814632  1.817455e+06    1.243091e+14  7.023113e+11      736539.247590
+pre_crisis      1.369837e+06  397171.972346  2.271652e+06    1.736252e+14  9.809332e+11      823839.998419
+
+IDN:
+  Crisis Impact (2007-2008):
+    - Average trade volume change: 38.32%
+    - Affected trading partners: 9
+  Post-Crisis Recovery (2008-2009):
+    - Average trade volume change: -37.56%
+    - Affected trading partners: 156
+  Trade Dependency Statistics:
+                trade_dependence                               bilateral_trade               target_total_trade
+                        mean            std            max             sum          mean               mean
+period                                                                                                     
+crisis_peak    545543.190287  165801.563480  908360.027206    8.305873e+13  4.692584e+11      992252.143581
+post_crisis    455226.501519  123476.288699  732921.546227    5.185863e+13  2.929866e+11      755626.800698
+pre_crisis     455867.458048  131361.452059  754356.256253    6.004852e+13  3.392572e+11      849855.513108
+
+IND:
+  Crisis Impact (2007-2008):
+    - Average trade volume change: 47.22%
+    - Affected trading partners: 4
+  Post-Crisis Recovery (2008-2009):
+    - Average trade volume change: -33.67%
+    - Affected trading partners: 146
+  Trade Dependency Statistics:
+                trade_dependence                              bilateral_trade               target_total_trade
+                        mean            std           max             sum          mean               mean
+period                                                                                                    
+crisis_peak    683596.181429  208464.898574  1.139979e+06    1.030621e+14  5.822716e+11      985290.414767
+post_crisis    607385.987288  165523.447147  9.794702e+05    6.835990e+13  3.862141e+11      749003.377534
+pre_crisis     536060.527617  155407.858682  8.888280e+05    7.000377e+13  3.955015e+11      844545.940792
+
+ITA:
+  Crisis Impact (2007-2008):
+    - Average trade volume change: 27.83%
+    - Affected trading partners: 23
+  Post-Crisis Recovery (2008-2009):
+    - Average trade volume change: -42.47%
+    - Affected trading partners: 166
+  Trade Dependency Statistics:
+                trade_dependence                              bilateral_trade               target_total_trade
+                        mean            std           max             sum          mean               mean
+period                                                                                                    
+crisis_peak     1.692410e+06  515481.266231  2.820018e+06    2.510679e+14  1.418463e+12      967941.482564
+post_crisis     1.300530e+06  353913.141941  2.095657e+06    1.444362e+14  8.160235e+11      737682.976404
+pre_crisis      1.535792e+06  444750.954244  2.544739e+06    1.964013e+14  1.109612e+12      826211.416498
+
+MYS:
+  Crisis Impact (2007-2008):
+    - Average trade volume change: 26.29%
+    - Affected trading partners: 25
+  Post-Crisis Recovery (2008-2009):
+    - Average trade volume change: -35.46%
+    - Affected trading partners: 150
+  Trade Dependency Statistics:
+                trade_dependence                              bilateral_trade               target_total_trade
+                        mean            std           max             sum          mean               mean
+period                                                                                                    
+crisis_peak    712389.555355  216188.279661  1.185735e+06    1.083150e+14  6.119489e+11      990134.765615
+post_crisis    614953.751506  166586.431040  9.898394e+05    6.991140e+13  3.949797e+11      753414.143636
+pre_crisis     653442.232970  188537.759516  1.081582e+06    8.576770e+13  4.845633e+11      846276.754916
+
+NLD:
+  Crisis Impact (2007-2008):
+    - Average trade volume change: 32.49%
+    - Affected trading partners: 15
+  Post-Crisis Recovery (2008-2009):
+    - Average trade volume change: -41.96%
+    - Affected trading partners: 166
+  Trade Dependency Statistics:
+                trade_dependence                              bilateral_trade               target_total_trade
+                        mean            std           max             sum          mean               mean
+period                                                                                                    
+crisis_peak     1.519859e+06  463132.782730  2.533050e+06    2.256664e+14  1.274951e+12      969943.957140
+post_crisis     1.177514e+06  320558.585420  1.897705e+06    1.309691e+14  7.399383e+11      739360.789963
+pre_crisis      1.327480e+06  384545.693544  2.199889e+06    1.703280e+14  9.623052e+11      829587.184859
+
+3. Key Findings
+-------------
+- Trade dependency analysis shows how central countries' trade patterns affected their partners
+- The analysis captures both direct trade volume changes and partner country dependencies
+- Visualizations show the network of trade dependencies and impact changes over time
